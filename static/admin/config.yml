@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: your-username/your-repo-name
+  repo: georgewilde/gatsby-netlify-cms-tutorial
 
 media_folder: static/assets
 public_folder: assets
